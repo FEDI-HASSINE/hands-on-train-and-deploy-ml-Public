@@ -147,25 +147,5 @@ Wanna learn to build a complete ML system that
 - trains predictive ML models, and
 - continuously deploys them
 
-using MLOps best practices?
-
-I am preparing a new hands-on tutorial where you will learn all this.
-
-**[Subscribe to The Real-World ML Newsletter](https://paulabartabajo.substack.com/)** to be notified when the tutorial is out.
-
-<div align="center">
-    <sub>Let's connect 🤗</sub>
-    <br />
-    <a href="https://twitter.com/paulabartabajo_">Twitter</a> •
-    <a href="https://www.linkedin.com/in/pau-labarta-bajo-4432074b/">LinkedIn</a> •
-    <a href="https://paulabartabajo.substack.com/">Newsletter</a>
-<br />
-</div>
-
-<div align="center">
-    <a href='https://www.realworldml.net/'><img src='./images/logo_realworldml.png' width='250'></a>
-</div>
-
-
 
 
